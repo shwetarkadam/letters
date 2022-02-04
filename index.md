@@ -1,9 +1,17 @@
 # Letters to Myself
 Random Letters,ideas to myself about tech topics & knowledge base
 
+## Audio blog feature on my [blog][www.codeklutz.com]
+
+*5 February, 2022, Friday at 4:50
+
+Need to add speech to text feature on my blog.I found a old software which gives me decent audio on UK accent but need to copy paste the text ,generate audio and add the same in the local and push it.I need to find a way to automate this.
+PowerAutomate desktop in windows seems like a good option but isn't free for normies ,only students and professionals.Could also dabble within desktop testing tools.
+
+
 ## FAT-Find Among us Tabs web extension.
 
-*February 5, 2022 at 4:29am*
+*5 February, 2022, Friday at 4:29am*
 
 Most of the times at work during hunting among a lot of confluence docs tabs I tend to get a little lost in navigating back to the tab in which I wanted to go .  
 
