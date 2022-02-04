@@ -1,7 +1,7 @@
 # Letters to Myself
 Random Letters,ideas to myself about tech topics & knowledge base
 
-## Audio blog feature on my [blog][www.codeklutz.com]
+## Audio blog feature on my [blog](www.codeklutz.com)
 
 *5 February, 2022, Friday at 4:50
 
