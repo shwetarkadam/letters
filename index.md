@@ -23,3 +23,6 @@ I was thinking of chrome extension before but since I switched to mozilla,cross 
 It could have a simple UI taking some input but that input keyword needs to be searched across all tabs within a window (different windows not sure if it's possible yet) and highlight maybe the top tab part.Also searching the tab within the tab titles.
 
 
+<input type="text" id="name" name="name"/>
+
+
