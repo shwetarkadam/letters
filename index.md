@@ -41,4 +41,11 @@ I was thinking of chrome extension before but since I switched to mozilla,cross 
 It could have a simple UI taking some input but that input keyword needs to be searched across all tabs within a window (different windows not sure if it's possible yet) and highlight maybe the top tab part.Also searching the tab within the tab titles.
 
 
+## Unpolished scrambling thoughts
+*4 February,2022 @10pm*
 
+Even though I do have a blog where I do write occasionally , sometimes thoughts aren't just polished or good enough to be on the blog or are not at that readystage yet.
+
+So I have decided to write here my scrambling little tech ideas or thoughts which I can later build a blog or project on.
+
+Something I can read back on to get some ideas when I'm not feeling creative enough.
