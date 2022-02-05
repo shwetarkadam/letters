@@ -1,6 +1,22 @@
 
 Random Letters,ideas to myself about tech topics & knowledge base
 
+## Need to decide on a minimalist ui or framework for small quick projects.
+* 6 February,2022 ,Sunday @4:12am*
+
+I love this minimal ui of Jekyll where I write here and would actually love something similar to implement as a quick to go ii for my personal projects.
+I found this framework called Pico which is close to this ui but integration of buttons and other elements seems to be a a bit of challenge.
+Another potential framework could be neat.css .this one seems simpler since it has two files and open to manipulation.Lets see which One I decide. On.
+
+## Using brwoser based tool for creating notes?Instead of spacemacs
+ *6 February,2022,Sunday @4:08am *
+
+I have been using spacemacs as my note taking tool these days .It does the job really well and the presentation is sophisticated too.But since I have been using it only as a note taking tool.and nothing else like editor or magit.I have to keep context switching to another app .
+Plus exporting org to pdf has been a challenge especially tables.
+
+Would prefer if this note taking system was browser based so if I had one less app to switch to.
+With a minimalist UI.
+
 ## Browser app or command line to write to it to here
 
 *5 February,2022, Saturday @ 2:04pm*
