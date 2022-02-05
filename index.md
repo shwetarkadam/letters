@@ -1,14 +1,19 @@
 
 Random Letters,ideas to myself about tech topics & knowledge base
 
-## Command line utility or browser app to write to it to here
+## Browser app or command line to write to it to here
 
 *5 February,2022, Saturday @ 2:04pm*
 
 I was thinking about using GitHub mobile app to edit to this file here instead of using the mobile browser all the time.
 But found out I can't edit files on the mobile app.Now that's a shame.
 
-So the idea to write some small command line utility which writes to this file or some kind PWA which writes to this file would be good.
+So the idea to write some small command line utility or browser app which writes to this file or some kind PWA which writes to this file would be good.
+
+I could use GitHub itself rather than creating a command line tool since this file resides on GitHub and is hosted thru Jekyll.But rather create a small page which takes input and writes to this file and hosts it.
+
+For command line tool I will still need GitHub login creds to write to this which sort of defeats the purpose of not using GitHub.
+
 
 
 ## Audio blog feature on my [blog](www.codeklutz.com)
