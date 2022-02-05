@@ -18,12 +18,13 @@ For command line tool I will still need GitHub login creds to write to this whic
 
 
 
-## Audio blog feature on my [blog](www.codeklutz.com)
+## Audio blog feature on my blog.
 
 *5 February, 2022, Friday at 4:50am*
 
 Need to add speech to text feature on my blog.
 I found a old software which gives me decent audio on UK accent but need to copy paste the text ,generate audio and add the same in the local and push it.I need to find a way to automate this.
+
 PowerAutomate desktop in windows seems like a good option but isn't free for normies ,only students and professionals.Could also dabble within desktop testing tools.
 
 
