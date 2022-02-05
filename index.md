@@ -10,7 +10,9 @@ But found out I can't edit files on the mobile app.Now that's a shame.
 
 So the idea to write some small command line utility or browser app which writes to this file or some kind PWA which writes to this file would be good.
 
-I could use GitHub itself rather than creating a command line tool since this file resides on GitHub and is hosted thru Jekyll.But rather create a small page which takes input and writes to this file and hosts it.
+I could use GitHub itself rather than creating a command line tool since this file resides on GitHub and is hosted thru Jekyll.
+
+But rather create a small page which takes input and writes to this file in this repo.Since I tend to edit from mobile a lot ,app seems like a good idea.
 
 For command line tool I will still need GitHub login creds to write to this which sort of defeats the purpose of not using GitHub.
 
@@ -25,7 +27,7 @@ I found a old software which gives me decent audio on UK accent but need to copy
 PowerAutomate desktop in windows seems like a good option but isn't free for normies ,only students and professionals.Could also dabble within desktop testing tools.
 
 
-## FAT-Find Among us Tabs web extension.
+## FAT-Find Among Tabs web extension.
 
 *5 February, 2022, Friday at 4:29am*
 
