@@ -1,8 +1,22 @@
 
 Random Letters,ideas to myself about tech topics & knowledge base
 
+## Explaiining Why this Tech or study notes on practice repo readme pages.
+*7 February ,2022,Monday @2:09 am*
+
+Today I went thru one of my senior Dev's GitHub profile (guilty as charged).And I found a interesting and useful habit.
+The senior dev wrote his study notes on read me and also the reasons and usecases as to why this tech is useful and could be used.
+
+Normally when I study use cases I  forget about other use cases and tend to remember hardly one or two prominent ones.
+Plus this could a useful while I need to revise particular concepts and I have them handy on my GitHub.
+
+I could even explain it here but it might get too verbose so I would only explain which fascinated me to use that tech for some application.
+
+But in general even I should start posting my notes on practice repos readme. 
+ 
+
 ## Need to decide on a minimalist ui or framework for small quick projects.
-* 6 February,2022 ,Sunday @4:12am*
+*6 February,2022 ,Sunday @4:12am*
 
 I love this minimal ui of Jekyll where I write here and would actually love something similar to implement as a quick to go ii for my personal projects.
 I found this framework called Pico which is close to this ui but integration of buttons and other elements seems to be a a bit of challenge.
