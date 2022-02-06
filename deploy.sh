@@ -1,5 +1,5 @@
 #!/bin/bash
 
 git add .
-git commit -m 'Additional writing'
+git commit -m ' Writing another thought'
 git push
