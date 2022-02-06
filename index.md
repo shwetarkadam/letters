@@ -1,6 +1,9 @@
 
 Random Letters,ideas to myself about tech topics & knowledge base
 
+[Unpolished scrambling thoughts](#Unpolished scrambling thoughts)
+
+
 ## Explaining Why this Tech or study notes on practice repo readme pages.
 *7 February ,2022,Monday @2:09 am*
 
