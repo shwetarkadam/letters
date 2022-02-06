@@ -23,7 +23,7 @@ I found this framework called Pico which is close to this ui but integration of 
 Another potential framework could be neat.css .this one seems simpler since it has two files and open to manipulation.Lets see which One I decide. On.
 
 ## Using browser based tool for creating notes?Instead of spacemacs
- *6 February,2022,Sunday @4:08am *
+*6 February,2022,Sunday @4:08am*
 
 I have been using spacemacs as my note taking tool these days .It does the job really well and the presentation is sophisticated too.But since I have been using it only as a note taking tool.and nothing else like editor or magit.I have to keep context switching to another app .
 Plus exporting org to pdf has been a challenge especially tables.
@@ -50,7 +50,7 @@ For command line tool I will still need GitHub login creds to write to this whic
 
 ## Audio blog feature on my blog.
 
-*5 February, 2022, Friday at 4:50am*
+*5 February, 2022, Friday @ 4:50am*
 
 Need to add speech to text feature on my blog.
 I found a old software which gives me decent audio on UK accent but need to copy paste the text ,generate audio and add the same in the local and push it.I need to find a way to automate this.
@@ -60,7 +60,7 @@ PowerAutomate desktop in windows seems like a good option but isn't free for nor
 
 ## FAT-Find Among Tabs web extension.
 
-*5 February, 2022, Friday at 4:29am*
+*5 February, 2022, Friday @ 4:29am*
 
 Most of the times at work during hunting among a lot of confluence docs tabs I tend to get a little lost in navigating back to the tab in which I wanted to go .  
 
