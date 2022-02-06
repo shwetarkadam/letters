@@ -8,7 +8,7 @@ I love this minimal ui of Jekyll where I write here and would actually love some
 I found this framework called Pico which is close to this ui but integration of buttons and other elements seems to be a a bit of challenge.
 Another potential framework could be neat.css .this one seems simpler since it has two files and open to manipulation.Lets see which One I decide. On.
 
-## Using brwoser based tool for creating notes?Instead of spacemacs
+## Using browser based tool for creating notes?Instead of spacemacs
  *6 February,2022,Sunday @4:08am *
 
 I have been using spacemacs as my note taking tool these days .It does the job really well and the presentation is sophisticated too.But since I have been using it only as a note taking tool.and nothing else like editor or magit.I have to keep context switching to another app .
