@@ -1,7 +1,7 @@
 
 Random Letters,ideas to myself about tech topics & knowledge base
 
-[Unpolished scrambling thoughts](Unpolished scrambling thoughts)
+<!--[Unpolished scrambling thoughts](Unpolished scrambling thoughts)-->
 
 
 ## Explaining Why this Tech or study notes on practice repo readme pages.
