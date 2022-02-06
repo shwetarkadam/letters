@@ -1,7 +1,7 @@
 
 Random Letters,ideas to myself about tech topics & knowledge base
 
-## Explaiining Why this Tech or study notes on practice repo readme pages.
+## Explaining Why this Tech or study notes on practice repo readme pages.
 *7 February ,2022,Monday @2:09 am*
 
 Today I went thru one of my senior Dev's GitHub profile (guilty as charged).And I found a interesting and useful habit.
