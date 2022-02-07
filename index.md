@@ -4,6 +4,15 @@ Random Letters,ideas to myself about tech topics & knowledge base
 <!--[Unpolished scrambling thoughts](Unpolished scrambling thoughts)-->
 
 
+## SMS messages or push notifications to myself.
+*7 February ,2022,Monday @11:45 am*
+
+These days I pay attention more to my sms messages than any other app(the shopaholic in me wants to go track the order).
+But then the idea of sending sms messages to myself to do basic exercise and chores at specific times struck me.
+
+I could use something like go to send sms or if sms implementation becomes a pain there are always push notifications.Could use rest protocol to send sms.Need to research this more.
+I could use some sort of web app which configures what text and sms to send based on specific times , configure to send the SMS at that time.
+
 ## Explaining Why this Tech or study notes on practice repo readme pages.
 *7 February ,2022,Monday @2:09 am*
 
