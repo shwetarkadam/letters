@@ -91,3 +91,15 @@ Even though I do have a blog where I do write occasionally , sometimes thoughts 
 So I have decided to write here my scrambling little tech ideas or thoughts which I can later build a blog or project on.
 
 Something I can read back on to get some ideas when I'm not feeling creative enough.
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1L3JTEQZ5Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1L3JTEQZ5Y');
+</script>
