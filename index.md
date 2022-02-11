@@ -2,6 +2,15 @@
 Random Letters,ideas to myself about tech topics & knowledge base
 
 <!--[Unpolished scrambling thoughts](Unpolished scrambling thoughts)-->
+## Using google sheets as a database???
+*12 February,2022, Saturday @4:30am*
+
+I get the wackiest ideas at night but as I have been working on a small side project which is using MySQL db .I realised how much cost and pain it's gonna cost me to host it.
+And then my mind wandered as to what alternative I can use as a database? I thought of two things:-
+Redis as a primary database and second one which sounds weird at first is google sheets.
+
+Google sheets is free and it has an API for small projects maybe I can use it as a db .Just maybe it might work.
+
 
 ## Which approach for my minimal note taking tool?
 *11 February,2022,Friday @12:28pm*
