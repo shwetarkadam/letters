@@ -20,8 +20,6 @@ OR **should I keep the note taking link based like how paste bin gives you speci
 
 OR **should I keep it session based?** But then I will have to keep the session alive for ever doesn't seem like a good approach.
 
-ALSO **should remind myself to read and understand background sync more for my tool.**
-
 
 ## SMS messages or push notifications to myself.
 *7 February ,2022,Monday @11:45 am*
