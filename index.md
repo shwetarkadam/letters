@@ -5,16 +5,22 @@ Random Letters,ideas to myself about tech topics & knowledge base
 
 ## Background sync/push notifications or browser based local storage for minimal note taking tool?
 *11 February,2022,Friday @12:28pm*
+
+
 I have been curious about how slack effortlessly and instantly manages to sync messages between desktop and mobile apps.The experience is beautiful.Made me wonder how they actually do it.My friend simply said push notifications which made me read about it,not sure if I understand the push notifications completely but I did ccome come across background sync which does offline syncing between mobile and web app..
 Which made me wonder which approach I should take for my minimal browser based note taking tool?
 
+
 **Should I just store the messages on user's local storage?** But that would mean I can't sync it between multiple browsers such as  between my mobile browser and web browser and that would not be convenient.
+
+
 **Should I keep the note taking account based and fetch from db?** Seems like my typical approach.
 
-OR ** should I keep the note taking link based like how paste bin gives you specific link and when you click on it you get contents from that specific link?** 
-OR ** should I keep it session based?** But then I will have to keep the session alive for ever doesn't seem like a good approach.
+OR **should I keep the note taking link based like how paste bin gives you specific link and when you click on it you get contents from that specific link?** 
 
-ALSO should remind myself to read and understand background sync more for my tool.
+OR **should I keep it session based?** But then I will have to keep the session alive for ever doesn't seem like a good approach.
+
+ALSO **should remind myself to read and understand background sync more for my tool.**
 
 
 ## SMS messages or push notifications to myself.
