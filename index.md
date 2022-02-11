@@ -3,7 +3,7 @@ Random Letters,ideas to myself about tech topics & knowledge base
 
 <!--[Unpolished scrambling thoughts](Unpolished scrambling thoughts)-->
 
-## Background sync/push notifications or browser based local storage for minimal note taking tool?
+## Which approach for my minimal note taking tool?
 *11 February,2022,Friday @12:28pm*
 
 
