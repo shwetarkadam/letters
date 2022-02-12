@@ -2,6 +2,19 @@
 Random Letters,ideas to myself about tech topics & knowledge base
 
 <!--[Unpolished scrambling thoughts](Unpolished scrambling thoughts)-->
+ [Using google sheets as a database???](#Usinggooglesheetsasadatabase???)
+ [Which approach for my minimal note taking tool?](#Whichapproachformyminimalnotetakingtool?)
+ [SMS messages or push notifications to myself.](#SMSmessagesorpushnotificationstomyself)
+ [Explaining Why this Tech or study notes on practice repo readme pages.](#ExplainingWhythisTechorstudynotesonpracticereporeadmepages)
+ [Need to decide on a minimalist ui or framework for small quick projects.](#Needtodecideonaminimalistuiorframeworkforsmallquickprojects)
+ [Browser app or command line to write to it to here](#Browserapporcommandlinetowritetoittohere)
+ [Audio blog feature on my blog.](#Audioblogfeatureonmyblog)
+ [FAT-Find Among Tabs web extension.e](#FAT-FindAmongTabswebextension)
+ [Unpolished scrambling thoughts](#Unpolishedscramblingthoughts)
+ 
+ 
+ 
+ 
 ## Using google sheets as a database???
 *12 February,2022, Saturday @4:30am*
 
@@ -109,7 +122,7 @@ I was thinking of chrome extension before but since I switched to mozilla,cross 
 
 It could have a simple UI taking some input but that input keyword needs to be searched across all tabs within a window (different windows not sure if it's possible yet) and highlight maybe the top tab part.Also searching the tab within the tab titles.
 
-<div id ="Unpolished scrambling thoughts"/>
+
 ## Unpolished scrambling thoughts
 *4 February,2022 @10pm*
 
