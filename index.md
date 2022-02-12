@@ -12,13 +12,13 @@ Random Letters,ideas to myself about tech topics & knowledge base
  
  [Need to decide on a minimalist ui or framework for small quick projects.](#need-to-decide-on-a-minimalist-ui-or-framework-for-small-quick-projects)
  
- [Browser app or command line to write to it to here](#Browser-app-or-command-line-to-write-to-it-to-here)
+ [Browser app or command line to write to it to here](#browser-app-or-command-line-to-write-to-it-to-here)
  
- [Audio blog feature on my blog.](#Audio-blog-feature-on-my-blog)
+ [Audio blog feature on my blog.](#audio-blog-feature-on-my-blog)
  
- [FAT-Find Among Tabs web extension.e](#FAT-Find-Among-Tabs-webextension)
+ [FAT-Find Among Tabs web extension.e](#fat-Find-Among-Tabs-webextension)
  
- [Unpolished scrambling thoughts](#Unpolished-scrambling-thoughts)
+ [Unpolished scrambling thoughts](#unpolished-scrambling-thoughts)
  
  
  
