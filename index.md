@@ -2,26 +2,16 @@
 Random Letters,ideas to myself about tech topics & knowledge base
 
 <!--[Unpolished scrambling thoughts](Unpolished scrambling thoughts)-->
- [Using google sheets as a database???](#using-google-sheets-as-a-database)
- 
- [Which approach for my minimal note taking tool?](#which-approach-for-my-minimal-note-taking-tool)
- 
-[SMS messages or push notifications to myself.](#sms-messages-or-push-notifications-to-myself)
- 
- [Explaining Why this Tech or study notes on practice repo readme pages.](#explaining-why-this-tech-or-study-notes-on-practice-repo-readme-pages)
- 
- [Need to decide on a minimalist ui or framework for small quick projects.](#need-to-decide-on-a-minimalist-ui-or-framework-for-small-quick-projects)
- 
+[Using google sheets as a database???](#using-google-sheets-as-a-database)
+[Which approach for my minimal note taking tool?](#which-approach-for-my-minimal-note-taking-tool)
+[SMS messages or push notifications to myself.](#sms-messages-or-push-notifications-to-myself) 
+[Explaining Why this Tech or study notes on practice repo readme pages.](#explaining-why-this-tech-or-study-notes-on-practice-repo-readme-pages)
+[Need to decide on a minimalist ui or framework for small quick projects.](#need-to-decide-on-a-minimalist-ui-or-framework-for-small-quick-projects)
 [Using browser based tool for creating notes?Instead of spacemacs](#using-browser-based-tool-for-creating-notes?Instead-of-spacemacs)
-
-
- [Browser app or command line to write to it to here](#browser-app-or-command-line-to-write-to-it-to-here)
- 
- [Audio blog feature on my blog.](#audio-blog-feature-on-my-blog)
- 
- [FAT-Find Among Tabs web extension.e](#fat-Find-Among-Tabs-webextension)
- 
- [Unpolished scrambling thoughts](#unpolished-scrambling-thoughts)
+[Browser app or command line to write to it to here](#browser-app-or-command-line-to-write-to-it-to-here)
+[Audio blog feature on my blog.](#audio-blog-feature-on-my-blog)
+[FAT-Find Among Tabs web extension.e](#fat-Find-Among-Tabs-webextension)
+[Unpolished scrambling thoughts](#unpolished-scrambling-thoughts)
  
  
  
