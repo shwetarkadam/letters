@@ -8,17 +8,17 @@ Random Letters,ideas to myself about tech topics & knowledge base
  
 [SMS messages or push notifications to myself.](#sms-messages-or-push-notifications-to-myself)
  
- [Explaining Why this Tech or study notes on practice repo readme pages.](##explaining-why-this-tech-or-study-notes-on-practice-repo-readme-pages)
+ [Explaining Why this Tech or study notes on practice repo readme pages.](#explaining-why-this-tech-or-study-notes-on-practice-repo-readme-pages)
  
- [Need to decide on a minimalist ui or framework for small quick projects.](#Need-to-decide-on-a-minimalist-ui-or-framework-for-small-quick-projects)
+ [Need to decide on a minimalist ui or framework for small quick projects.](#need-to-decide-on-a-minimalist-ui-or-framework-for-small-quick-projects)
  
- [Browser app or command line to write to it to here](#Browserapporcommandlinetowritetoittohere)
+ [Browser app or command line to write to it to here](#Browser-app-or-command-line-to-write-to-it-to-here)
  
- [Audio blog feature on my blog.](#Audioblogfeatureonmyblog)
+ [Audio blog feature on my blog.](#Audio-blog-feature-on-my-blog)
  
- [FAT-Find Among Tabs web extension.e](#FAT-FindAmongTabswebextension)
+ [FAT-Find Among Tabs web extension.e](#FAT-Find-Among-Tabs-webextension)
  
- [Unpolished scrambling thoughts](#Unpolishedscramblingthoughts)
+ [Unpolished scrambling thoughts](#Unpolished-scrambling-thoughts)
  
  
  
