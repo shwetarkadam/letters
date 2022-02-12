@@ -5,11 +5,12 @@ Random Letters,ideas to myself about tech topics & knowledge base
  [Using google sheets as a database???](#using-google-sheets-as-a-database)
  
  [Which approach for my minimal note taking tool?](#which-approach-for-my-minimal-note-taking-tool)
- [SMS messages or push notifications to myself.](#SMSmessagesorpushnotificationstomyself)
  
- [Explaining Why this Tech or study notes on practice repo readme pages.](#ExplainingWhythisTechorstudynotesonpracticereporeadmepages)
+[SMS messages or push notifications to myself.](#sms-messages-or-push-notifications-to-myself)
  
- [Need to decide on a minimalist ui or framework for small quick projects.](#Needtodecideonaminimalistuiorframeworkforsmallquickprojects)
+ [Explaining Why this Tech or study notes on practice repo readme pages.](##explaining-why-this-tech-or-study-notes-on-practice-repo-readme-pages)
+ 
+ [Need to decide on a minimalist ui or framework for small quick projects.](#Need-to-decide-on-a-minimalist-ui-or-framework-for-small-quick-projects)
  
  [Browser app or command line to write to it to here](#Browserapporcommandlinetowritetoittohere)
  
