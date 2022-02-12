@@ -3,13 +3,21 @@ Random Letters,ideas to myself about tech topics & knowledge base
 
 <!--[Unpolished scrambling thoughts](Unpolished scrambling thoughts)-->
  [Using google sheets as a database???](#Usinggooglesheetsasadatabase???)
+ 
  [Which approach for my minimal note taking tool?](#Whichapproachformyminimalnotetakingtool?)
+ 
  [SMS messages or push notifications to myself.](#SMSmessagesorpushnotificationstomyself)
+ 
  [Explaining Why this Tech or study notes on practice repo readme pages.](#ExplainingWhythisTechorstudynotesonpracticereporeadmepages)
+ 
  [Need to decide on a minimalist ui or framework for small quick projects.](#Needtodecideonaminimalistuiorframeworkforsmallquickprojects)
+ 
  [Browser app or command line to write to it to here](#Browserapporcommandlinetowritetoittohere)
+ 
  [Audio blog feature on my blog.](#Audioblogfeatureonmyblog)
+ 
  [FAT-Find Among Tabs web extension.e](#FAT-FindAmongTabswebextension)
+ 
  [Unpolished scrambling thoughts](#Unpolishedscramblingthoughts)
  
  
