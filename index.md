@@ -12,7 +12,7 @@ Random Letters,ideas to myself about tech topics & knowledge base
 
 [Need to decide on a minimalist ui or framework for small quick projects.](#need-to-decide-on-a-minimalist-ui-or-framework-for-small-quick-projects)
 
-[Using browser based tool for creating notes?Instead of spacemacs](#using-browser-based-tool-for-creating-notes?Instead-of-spacemacs)
+[Using browser based tool for creating notes?Instead of spacemacs](#using-browser-based-tool-for-creating-notesinstead-of-spacemacs)
 
 [Browser app or command line to write to it to here](#browser-app-or-command-line-to-write-to-it-to-here)
 
