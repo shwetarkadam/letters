@@ -2,10 +2,9 @@
 Random Letters,ideas to myself about tech topics & knowledge base
 
 <!--[Unpolished scrambling thoughts](Unpolished scrambling thoughts)-->
- [Using google sheets as a database???](#Usinggooglesheetsasadatabase???)
+ [Using google sheets as a database???](#using-google-sheets-as-a-database)
  
- [Which approach for my minimal note taking tool?](#Whichapproachformyminimalnotetakingtool?)
- 
+ [Which approach for my minimal note taking tool?](#which-approach-for-my-minimal-note-taking-tool)
  [SMS messages or push notifications to myself.](#SMSmessagesorpushnotificationstomyself)
  
  [Explaining Why this Tech or study notes on practice repo readme pages.](#ExplainingWhythisTechorstudynotesonpracticereporeadmepages)
