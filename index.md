@@ -18,7 +18,7 @@ Random Letters,ideas to myself about tech topics & knowledge base
 
 [Audio blog feature on my blog.](#audio-blog-feature-on-my-blog)
 
-[FAT-Find Among Tabs web extension.e](#fat-Find-Among-Tabs-webextension)
+[FAT-Find Among Tabs web extension.e](#fat-find-among-tabs-web-extension)
 
 [Unpolished scrambling thoughts](#unpolished-scrambling-thoughts)
  
