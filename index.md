@@ -4,6 +4,9 @@ Random Letters,ideas to myself about tech topics & knowledge base
 <!--[Unpolished scrambling thoughts](Unpolished scrambling thoughts)-->
 [Using google sheets as a database???](#using-google-sheets-as-a-database)
 
+[Web extension which screen records and turns it into a gif]
+
+
 [Which approach for my minimal note taking tool?](#which-approach-for-my-minimal-note-taking-tool)
 
 [SMS messages or push notifications to myself.](#sms-messages-or-push-notifications-to-myself) 
@@ -23,7 +26,14 @@ Random Letters,ideas to myself about tech topics & knowledge base
 [Unpolished scrambling thoughts](#unpolished-scrambling-thoughts)
  
  
- 
+## Web extension which screen records and turns it into a gif .
+
+*15 February,2022, Tuesday @5:00pm*
+
+I came across a situation at work today where I had to explain a problem having on a site witb many redirections happening.Now I  thought I could have avoided one meeting if I could just send a small gif or video but I felt lazy to even start the screen recorder on Mac.
+
+Hence the idea of having a web extension which quickly records and Makes into a gif arose.
+
  
 ## Using google sheets as a database???
 *12 February,2022, Saturday @4:30am*
