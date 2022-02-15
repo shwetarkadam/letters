@@ -2,10 +2,10 @@
 Random Letters,ideas to myself about tech topics & knowledge base
 
 <!--[Unpolished scrambling thoughts](Unpolished scrambling thoughts)-->
+
+[Web extension which screen records and turns it into a gif](#web-extension-which-screen-records-and-turns-it-into-a-gif-)
+
 [Using google sheets as a database???](#using-google-sheets-as-a-database)
-
-[Web extension which screen records and turns it into a gif]
-
 
 [Which approach for my minimal note taking tool?](#which-approach-for-my-minimal-note-taking-tool)
 
