@@ -24,7 +24,18 @@ Random Letters,ideas to myself about tech topics & knowledge base
 [FAT-Find Among Tabs web extension](#fat-find-among-tabs-web-extension)
 
 [Unpolished scrambling thoughts](#unpolished-scrambling-thoughts)
- 
+
+
+
+ ## Web extension that converts video audio to text and stores it in file
+
+*27 February,2022, Tuesday @4:40pm*
+
+Since these days I'm learning thru other course videos such as Coursera ,udemy and usually I have notes (thru note.codeklutz.com) but then an idea of actually converting any video's audio into text came up.
+
+But as to how to detect every video's audio seems a challenge for now.
+
+
  
 ## Web extension which screen records and turns it into a gif .
 
