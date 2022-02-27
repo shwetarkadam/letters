@@ -52,7 +52,7 @@ Hence the idea of having a web extension which quickly records and Makes into a 
 I get the wackiest ideas at night but as I have been working on a small side project which is using MySQL db .I realised how much cost and pain it's gonna cost me to host it.
 
 And then my mind wandered as to what alternative I can use as a database? I thought of two things:-
-Redis as a primary database and second one which sounds weird at first is google sheets.
+Firebase as a primary database and second one which sounds weird at first is google sheets.
 
 Google sheets is free and it has an API for small projects maybe I can use it as a db .Just maybe it might work.
 
